@@ -1,0 +1,51 @@
+.navbar {
+  margin-top: -10px;
+  width: 1440px;
+  height: 52px;
+}
+.navbar-logo {
+  position: relative;
+  width: 76px;
+  height: 42.75px;
+  top: 15px;
+  left: 85px;
+}
+.navbar-items {
+  cursor: pointer;
+  list-style-type: none;
+  display: flex;
+  position: absolute;
+  width: 333px;
+  height: 24px;
+  top: 24px;
+  left: 470px;
+  gap: 24px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  color: #2e2e2e;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.btn {
+  cursor: pointer;
+  background-color: #d01c28;
+  font-family: "inter";
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 19.36px;
+  color: #ffffff;
+  border: white;
+  width: 80px;
+  height: 28px;
+  border-radius: 5px;
+}
+.btn-wrapper {
+  position: absolute;
+  width: 75px;
+  height: 31px;
+  top: 40px;
+  left: 1086px;
+  padding: 6px, 16px, 6px, 16px;
+}
